@@ -1,6 +1,7 @@
 import numpy as np
 import matplotlib.pyplot as plt
 
+
 #define activation function
 def sigmoid(x):
     return 1/(1 + np.exp(-x))
