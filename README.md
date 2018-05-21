@@ -1,1 +1,4 @@
-# deeplearnin_study
+# deeplearning_study
+
+###RNN
+###MNIST
