@@ -1,4 +1,4 @@
 # deeplearning_study
 
-###RNN
-###MNIST
+##RNN
+##MNIST
