@@ -1,2 +1,4 @@
 # deeplearning_study
-##RNN,MNIST
+#Study RNN
+#MNIST classification
+#number_classification : classify the five numbers.
