@@ -1,0 +1,9 @@
+iris_training.csv
+-각 라벨 당 15개 데이터
+-총 75개
+
+iris_test.csv 
+-각 라벨 당 2개 데이터
+-총 10개
+
+iris_eval.csv (제공된 데이터, "test.csv"와 동일)
